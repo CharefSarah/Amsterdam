@@ -1,0 +1,86 @@
+body {
+    background-color: #F0F4F3;
+    margin: 0;
+}
+
+#headerSection {
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    opacity: 90%;
+}
+
+
+.navbar {
+    background-color: #2b2b2b;
+}
+
+#titleHeader {
+    font-size: 90px;
+    color: rgb(251, 255, 0);
+    margin-top: 80px;
+    font-family: NeueWorld;
+    src: url("../fonts/NeueWorld-ExtendedMedium.ttf") format("truetype");
+
+}
+ a :hover{
+    text-decoration: none;
+    color: #2b2b2b;
+    text-align: center;
+}
+#a {
+    color: #2b2b2b;
+  
+}
+
+.imgSize {
+    height: auto;
+    width: 350px;
+}
+
+.container {
+    background-color: #F0F4F3;
+    text-align: center;
+    align-items: center;
+}
+
+#navBar a:hover {
+    color: rgb(251, 255, 0);
+}
+
+#photo1{
+    margin-left: 50px;
+    padding: 25px;
+}
+
+#photo2{
+    margin-left: 50px;
+    padding: 25px;
+}
+#photo3{
+    margin-left: 50px;
+    padding: 25px;
+}
+h2{
+    text-align: center;
+    font-family: NeueWorld;
+    src: url("../fonts/NeueWorld-ExtendedMedium.ttf") format("truetype");
+}
+
+#section1{
+    padding: 20px;
+}
+
+p{
+    text-align: justify;
+    padding: 10px;
+}
+
+
+@font-face {
+    font-family: NeueWorld;
+    src: url("../fonts/NeueWorld-ExtendedMedium.ttf") format("truetype");
+}
+
+
